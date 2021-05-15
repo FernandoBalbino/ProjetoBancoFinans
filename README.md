@@ -1,3 +1,3 @@
 # ProjetoBancoFinans
-## Criado apenas como forma educacional.
+## Criado apenas como forma de fins educacionais.
 ### Site do projeto: https://fernandobalbino.github.io/ProjetoBancoFinans/
