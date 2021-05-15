@@ -1,0 +1,79 @@
+.fas{
+	color: white;
+	font-size: 25px;
+
+}
+.navbar-toggler{
+	border: none;
+}
+
+body{
+	background-color: #E7E7E7;
+}
+
+#home{
+	color: white;
+	background: #ffc107;
+}
+footer p a{
+	margin: 5px 15px;
+}
+ .caixa{
+ 	padding: 60px 0;
+ 	border-bottom: 1px solid #e5e5e5;
+
+}
+@media (max-width: 575px){
+	.navbar-nav{
+	text-align:  center;
+}
+.ml-4{
+	display: block;
+	margin-right: 18px;
+}
+#nav-principal{
+	transition: all 0.5s ease;
+}
+}
+@media only screen and (max-width : 390px) {
+h2, h4, p{
+	text-align: center;
+}
+
+.cent-btn{
+	text-align: center;
+	display: block;
+}
+
+.align-self-center{
+	margin-bottom: 20px;
+}
+#f-c{
+	justify-content: center;
+}
+
+button{
+
+}
+.display-4{    
+
+font-size: 2.5em;    
+
+   
+
+line-height: 1.2;    
+
+margin: 15px 0;    
+    }
+
+#home p{    
+
+text-align: start;    
+
+font-size: 1.2em;    
+
+font-weight: 400;    
+
+line-height: 1.2;    
+
+letter-spacing: 1px; }
